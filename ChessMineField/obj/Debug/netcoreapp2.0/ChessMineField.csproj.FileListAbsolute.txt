@@ -1,0 +1,11 @@
+C:\Users\rags\source\repos\ChessMineField\ChessMineField\bin\Debug\netcoreapp2.0\ChessMineField.deps.json
+C:\Users\rags\source\repos\ChessMineField\ChessMineField\bin\Debug\netcoreapp2.0\ChessMineField.runtimeconfig.json
+C:\Users\rags\source\repos\ChessMineField\ChessMineField\bin\Debug\netcoreapp2.0\ChessMineField.runtimeconfig.dev.json
+C:\Users\rags\source\repos\ChessMineField\ChessMineField\bin\Debug\netcoreapp2.0\ChessMineField.dll
+C:\Users\rags\source\repos\ChessMineField\ChessMineField\bin\Debug\netcoreapp2.0\ChessMineField.pdb
+C:\Users\rags\source\repos\ChessMineField\ChessMineField\obj\Debug\netcoreapp2.0\ChessMineField.csproj.CoreCompileInputs.cache
+C:\Users\rags\source\repos\ChessMineField\ChessMineField\obj\Debug\netcoreapp2.0\ChessMineField.AssemblyInfoInputs.cache
+C:\Users\rags\source\repos\ChessMineField\ChessMineField\obj\Debug\netcoreapp2.0\ChessMineField.AssemblyInfo.cs
+C:\Users\rags\source\repos\ChessMineField\ChessMineField\obj\Debug\netcoreapp2.0\ChessMineField.dll
+C:\Users\rags\source\repos\ChessMineField\ChessMineField\obj\Debug\netcoreapp2.0\ChessMineField.pdb
+C:\Users\rags\source\repos\ChessMineField\ChessMineField\obj\Debug\netcoreapp2.0\ChessMineField.csprojAssemblyReference.cache

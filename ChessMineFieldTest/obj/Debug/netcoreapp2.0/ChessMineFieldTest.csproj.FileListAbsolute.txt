@@ -1,0 +1,17 @@
+C:\Users\rags\source\repos\ChessMineField\ChessMineFieldTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\rags\source\repos\ChessMineField\ChessMineFieldTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\rags\source\repos\ChessMineField\ChessMineFieldTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\rags\source\repos\ChessMineField\ChessMineFieldTest\bin\Debug\netcoreapp2.0\ChessMineFieldTest.deps.json
+C:\Users\rags\source\repos\ChessMineField\ChessMineFieldTest\bin\Debug\netcoreapp2.0\ChessMineFieldTest.runtimeconfig.json
+C:\Users\rags\source\repos\ChessMineField\ChessMineFieldTest\bin\Debug\netcoreapp2.0\ChessMineFieldTest.runtimeconfig.dev.json
+C:\Users\rags\source\repos\ChessMineField\ChessMineFieldTest\bin\Debug\netcoreapp2.0\ChessMineFieldTest.dll
+C:\Users\rags\source\repos\ChessMineField\ChessMineFieldTest\bin\Debug\netcoreapp2.0\ChessMineFieldTest.pdb
+C:\Users\rags\source\repos\ChessMineField\ChessMineFieldTest\bin\Debug\netcoreapp2.0\ChessMineField.dll
+C:\Users\rags\source\repos\ChessMineField\ChessMineFieldTest\bin\Debug\netcoreapp2.0\ChessMineField.pdb
+C:\Users\rags\source\repos\ChessMineField\ChessMineFieldTest\obj\Debug\netcoreapp2.0\ChessMineFieldTest.csprojAssemblyReference.cache
+C:\Users\rags\source\repos\ChessMineField\ChessMineFieldTest\obj\Debug\netcoreapp2.0\ChessMineFieldTest.csproj.CoreCompileInputs.cache
+C:\Users\rags\source\repos\ChessMineField\ChessMineFieldTest\obj\Debug\netcoreapp2.0\ChessMineFieldTest.AssemblyInfoInputs.cache
+C:\Users\rags\source\repos\ChessMineField\ChessMineFieldTest\obj\Debug\netcoreapp2.0\ChessMineFieldTest.AssemblyInfo.cs
+C:\Users\rags\source\repos\ChessMineField\ChessMineFieldTest\obj\Debug\netcoreapp2.0\ChessMineFieldTest.csproj.CopyComplete
+C:\Users\rags\source\repos\ChessMineField\ChessMineFieldTest\obj\Debug\netcoreapp2.0\ChessMineFieldTest.dll
+C:\Users\rags\source\repos\ChessMineField\ChessMineFieldTest\obj\Debug\netcoreapp2.0\ChessMineFieldTest.pdb
